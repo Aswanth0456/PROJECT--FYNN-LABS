@@ -1,7 +1,7 @@
 # PROJECT--FYNN-LABS
 Fynn Labs project 2 - Market Segmentation on the McDonald's dataset 
 
-This is market_segmentation_project This dataset provides a summary of the analysis performed on the McDonald's dataset. The dataset contains various features.
+This is market segmentation project This dataset provides a summary of the analysis performed on the McDonald's dataset. The dataset contains various features.
 
 This dataset gives us info about what people think of McDonald's food and how often they go there, along with some details about their age and gender.
 
